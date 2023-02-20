@@ -12,6 +12,7 @@ The analysis will also provide the opportunity to identify any potential areas f
 With the insights gathered from the analysis, Bellabeat can develop targeted marketing strategies that will effectively communicate the value of its products to potential customers. The objective is to leverage this information to drive growth and maintain its position as a leading provider of smart health and wellness devices.
 
 **KEY TASKS**
+
 -*Business Task:* 
 Analyze smart device usage data to gain insight into how consumers use non-Bellabeat smart devices, and to apply these insights to guide Bellabeat's marketing strategy. The goal is to uncover new growth opportunities for the company by better understanding consumer behavior and preferences, and to develop targeted marketing strategies to attract more customers. 
 
