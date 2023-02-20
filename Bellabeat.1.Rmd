@@ -24,6 +24,7 @@ The function getwd() was employed to verify that the correct working directory w
 getwd()
 ```
 
+
 Data was loaded
 
 ```{r}
@@ -84,7 +85,7 @@ str(Daily_Activity)
 str(Sleep_Day)
 ```
 
-ActivityDate column from Daily_Activit was changed into date format 
+ActivityDate column from Daily_Activity was changed into date format 
 ```{r}
 Daily_Activity <- Daily_Activity %>% 
   mutate(ActivityDate= as_date(ActivityDate, format= "%m/%d/%Y"))
