@@ -34,7 +34,7 @@ The limited sample size of just 33 users and the lack of demographic information
 
 ### **PROCESS** 
 
-To process, clean and analyze the data, the R programming language was selected. The necessary packages were loaded in R Studio and the data was imported using the read_csv function. The data was thoroughly inspected using different functions and techniques to understand its characteristics and properties. By combining multiple data sets, new data sets were created that provide a more comprehensive view of the information being analyzed. A detailed explanation of the process can be located in the Bellabeat.Rmd document.
+To process, clean and analyze the data, the R programming language was selected. The necessary packages were loaded in R Studio and the data was imported using the read_csv function. The data was thoroughly inspected using different functions and techniques to understand its characteristics and properties. By combining multiple data sets, new data sets were created providing a more comprehensive view of the information being analyzed. A detailed explanation of the process can be located in the Bellabeat.Rmd document.
 
 ### **ANALYZE**
 
