@@ -45,4 +45,4 @@ In order to gain a deeper understanding of the findings, it is recommended to re
 Data was visually represented through graphs and charts made in R Studio to help better understand the results of the analysis. These visualizations were created to be easy to understand for a wide audience. A presentation was also made to clearly communicate the key findings from the data analysis and share the insights with others https://prezi.com/p/gsvrefecjyxq/?present=1.
 
 ### **ACT** 
-A strategy, important findings, and future steps were added to the presentation. This made the presentation complete by showing not only the results of the data analysis but also what should be done next. The most important insights were carefully chosen to be included in the key takeaways section, which helps guide future decisions and drive progress.
+A strategy, important findings, and future steps were added to the presentation. This not only showcased the results of the data analysis but also provided a roadmap for what to do next.
