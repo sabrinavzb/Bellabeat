@@ -34,15 +34,15 @@ The limited sample size of just 33 users and the lack of demographic information
 
 ### **PROCESS** 
 
-To process, clean and analyze the data, the R programming language was selected. The necessary packages were loaded in R Studio and the data was imported using the read_csv function. The data was thoroughly inspected using different functions and techniques to understand its characteristics and properties. By combining multiple data sets, new data sets were created that provide a more comprehensive view of the information being analyzed. A detailed explanation of the process can be located in the CaseStudy.r document.
+To process, clean and analyze the data, the R programming language was selected. The necessary packages were loaded in R Studio and the data was imported using the read_csv function. The data was thoroughly inspected using different functions and techniques to understand its characteristics and properties. By combining multiple data sets, new data sets were created that provide a more comprehensive view of the information being analyzed. A detailed explanation of the process can be located in the Bellabeat.Rmd document.
 
 ### **ANALYZE**
 
 R Studio was used as the platform for data analysis, where various functions were applied to conduct a comprehensive examination of the data set. The objective of this analysis was to uncover interesting relationships and patterns within the data. For example, by analyzing the data, it was discovered that there is a positive correlation between the number of steps taken and the number of calories burned, suggesting that the more steps a person takes, the more calories they are likely to burn. Furthermore, the data analysis also revealed insights into the activity level of the users and the frequency of usage of the smart device.
-In order to gain a deeper understanding of the findings, it is recommended to refer to the CaseStudy.r document. 
+In order to gain a deeper understanding of the findings, it is recommended to refer to the Bellabeat.Rmd document. 
 
 ### **SHARE**
-Data was visually represented through graphs and charts made in R Studio to help better understand the results of the analysis. These visualizations were created to be easy to understand for a wide audience. A presentation was also made to clearly communicate the key findings from the data analysis and share the insights with others https://prezi.com/p/gsvrefecjyxq/?present=1.
+Data was visually represented through graphs and charts made in R Studio to help better understand the results of the analysis. A presentation was also made to clearly communicate the key findings from the data analysis and share the insights with others https://prezi.com/p/gsvrefecjyxq/?present=1.
 
 ### **ACT** 
 A strategy, important findings, and future steps were added to the presentation. This not only showcased the results of the data analysis but also provided a roadmap for what to do next.
