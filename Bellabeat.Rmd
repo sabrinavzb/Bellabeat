@@ -18,15 +18,13 @@ library(ggplot2)
 library(janitor)
 ```
 
-The function getwd() was employed to verify that the correct working directory was in use.
-
+The function getwd() was employed to verify that the correct working directory was in use
 ```{r}
 getwd()
 ```
 
 
 Data was loaded
-
 ```{r}
 Daily_Activity <- read_csv("Daily_Activity.csv")
 Heart_Rate_Seconds <- read_csv("Heartrate_seconds.csv")
@@ -36,8 +34,7 @@ Hourly_Intensities <- read.csv("Hourly_Intensities.csv")
 Sleep_Day <- read.csv("Sleep_Day.csv")
 ```
 
-The "colnames()" function was utilized to obtain a brief overview of the data by examining the column names.
-
+The "colnames()" function was utilized to obtain a brief overview of the data by examining the column names
 ```{r}
 colnames(Daily_Activity)
 colnames(Heart_Rate_Seconds)
@@ -51,7 +48,7 @@ How many distinct Id were in Heart_Rate_Seconds data set
 ```{r}
 n_distinct(Heart_Rate_Seconds$Id)
 ```
-#not all 33 users. Data was not used 
+#Only 14 users. Data was not used 
 
 How many distinct Id were in Daily_Activity data set
 ```{r}
@@ -62,10 +59,9 @@ How many distinct Id were in Sleep_Day
 ```{r}
 n_distinct(Sleep_Day$Id)
 ```
-#less than 33
+#less than 33 (24)
 
 The following functions were used to collect specific insights about the Daily_Activity and Sleep_Day data:
-
 ```{r}
 Daily_Activity %>%  
   select(TotalSteps,
