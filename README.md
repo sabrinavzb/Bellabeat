@@ -1,4 +1,5 @@
 # Bellabeat
+## How Can A Wellness Technology Company Play It Smart?
 
 ### **ASK**
 - What is the problem you are trying to solve?
